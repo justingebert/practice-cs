@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Easy/ConstructTheRectangle492.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" afterDir="false" />
+    <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="1108, 1021">
+      <change afterPath="$PROJECT_DIR$/src/Easy/DefangingAnIPAddress1108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveOutermostParentheses1021.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/LargestOddNumberInString1903.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/LargestOddNumberInString1903.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Maximum69Number1323">
     <configuration name="ConstructTheRectangle492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ConstructTheRectangle492" />
@@ -95,8 +95,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660759706388</updated>
-      <workItem from="1660759711056" duration="5420000" />
+      <workItem from="1660759711056" duration="5820000" />
+      <workItem from="1660837320239" duration="2466000" />
     </task>
+    <task id="LOCAL-00001" summary="493, 1903, 1323">
+      <created>1660765486548</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660765486548</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +121,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="493, 1903, 1323" />
+    <MESSAGE value="1108, 1021" />
+    <option name="LAST_COMMIT_MESSAGE" value="1108, 1021" />
   </component>
 </project>
