@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="1108, 1021">
-      <change afterPath="$PROJECT_DIR$/src/Easy/DefangingAnIPAddress1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveOutermostParentheses1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Motor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/htw/info3/sample_question/notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DUhiOiuVW1yjifI279R28JlB3M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Maximum69Number1323">
+  <component name="RunManager" selected="Application.ConstructTheRectangle492">
     <configuration name="ConstructTheRectangle492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ConstructTheRectangle492" />
       <module name="Leetcode" />
@@ -81,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Maximum69Number1323" />
         <item itemvalue="Application.ConstructTheRectangle492" />
+        <item itemvalue="Application.Maximum69Number1323" />
         <item itemvalue="Application.LargestOddNumberInString1903" />
       </list>
     </recent_temporary>
@@ -97,6 +103,11 @@
       <updated>1660759706388</updated>
       <workItem from="1660759711056" duration="5820000" />
       <workItem from="1660837320239" duration="2466000" />
+      <workItem from="1665742897489" duration="437000" />
+      <workItem from="1665941641926" duration="115000" />
+      <workItem from="1665941886599" duration="596000" />
+      <workItem from="1666531835339" duration="129000" />
+      <workItem from="1674595784264" duration="2259000" />
     </task>
     <task id="LOCAL-00001" summary="493, 1903, 1323">
       <created>1660765486548</created>
