@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="1108, 1021">
-      <change afterPath="$PROJECT_DIR$/src/Easy/DefangingAnIPAddress1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/RemoveOutermostParentheses1021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/MergeSortedArray88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/SecondLargestDigitInAString1796.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +24,40 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Easy/ConstructTheRectangle492.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Easy/DefangingAnIPAddress1108.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Easy/LargestOddNumberInString1903.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Easy/Maximum69Number1323.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Easy/RemoveOutermostParentheses1021.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Easy/SecondLargestDigitInAString1796.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DUhiOiuVW1yjifI279R28JlB3M" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Justin/Documents/PROJECTS/Uni/Computergrafik",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Maximum69Number1323">
     <configuration name="ConstructTheRectangle492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ConstructTheRectangle492" />
@@ -97,6 +116,11 @@
       <updated>1660759706388</updated>
       <workItem from="1660759711056" duration="5820000" />
       <workItem from="1660837320239" duration="2466000" />
+      <workItem from="1661077778583" duration="597000" />
+      <workItem from="1661104539828" duration="792000" />
+      <workItem from="1663845571324" duration="3000" />
+      <workItem from="1665583614959" duration="303000" />
+      <workItem from="1691237803833" duration="1409000" />
     </task>
     <task id="LOCAL-00001" summary="493, 1903, 1323">
       <created>1660765486548</created>
