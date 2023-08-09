@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="1108, 1021">
-      <change afterPath="$PROJECT_DIR$/src/Easy/MergeSortedArray88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Easy/SecondLargestDigitInAString1796.java" afterDir="false" />
+    <list default="true" id="bfc0e984-7edc-4aec-a48a-0e4997bc2a71" name="Changes" comment="27,150, start 189">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/BestTimeToBuyAndSellStock121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/ContainsDupilcate217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/LengthOfLastWord58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Easy/ValidAnagram242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/BestTimeToBuyAndSellStockII122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/GroupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Medium/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Easy/RemoveDupilcatesFromSortedArray150.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Easy/RemoveDupilcatesFromSortedArray26.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: -1
+}</component>
   <component name="ProjectId" id="2DUhiOiuVW1yjifI279R28JlB3M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,18 +60,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Justin/Documents/PROJECTS/Uni/Computergrafik",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Maximum69Number1323">
+  <component name="RunManager" selected="Application.ValidAnagram242">
     <configuration name="ConstructTheRectangle492" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.ConstructTheRectangle492" />
       <module name="Leetcode" />
@@ -98,8 +113,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSortedArray88" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.MergeSortedArray88" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidAnagram242" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.ValidAnagram242" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidAnagram242" />
+        <item itemvalue="Application.MergeSortedArray88" />
         <item itemvalue="Application.Maximum69Number1323" />
         <item itemvalue="Application.ConstructTheRectangle492" />
         <item itemvalue="Application.LargestOddNumberInString1903" />
@@ -120,7 +163,10 @@
       <workItem from="1661104539828" duration="792000" />
       <workItem from="1663845571324" duration="3000" />
       <workItem from="1665583614959" duration="303000" />
-      <workItem from="1691237803833" duration="1409000" />
+      <workItem from="1691237803833" duration="12251000" />
+      <workItem from="1691309963065" duration="10775000" />
+      <workItem from="1691519506355" duration="2827000" />
+      <workItem from="1691606676266" duration="1050000" />
     </task>
     <task id="LOCAL-00001" summary="493, 1903, 1323">
       <created>1660765486548</created>
@@ -129,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660765486548</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="88">
+      <created>1691240775732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691240775732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="27,150, start 189">
+      <created>1691310968906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691310968906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +209,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="493, 1903, 1323" />
     <MESSAGE value="1108, 1021" />
-    <option name="LAST_COMMIT_MESSAGE" value="1108, 1021" />
+    <MESSAGE value="88" />
+    <MESSAGE value="27,150, start 189" />
+    <option name="LAST_COMMIT_MESSAGE" value="27,150, start 189" />
   </component>
 </project>
